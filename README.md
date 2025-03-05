@@ -1,1 +1,2 @@
 I initially created a rock, paper, sissors project but decided to add lizard and spock to add more oucomes to the game! I really enjoyed making this game and found it was easy to code!
+I also created a code using the import imageio module to create a Nyan cat GIF. I was aware of having to change the sizing of the image however I edited the sizes of the images manually in order to make the code easier to read.
